@@ -8,6 +8,7 @@ public class Esercizio2 {
         System.out.print("Inserisci un numero tra 0 e 3: ");
         int intero = Integer.parseInt(scanner.nextLine());
         metodoSwitch(intero);
+        scanner.close();
     }
 
     public static void metodoSwitch(int intero) {
