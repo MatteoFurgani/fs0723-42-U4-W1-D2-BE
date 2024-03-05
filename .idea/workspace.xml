@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74782016-70b0-4220-bb87-91f5ba4144ac" name="Changes" comment="Esercizio1">
+    <list default="true" id="74782016-70b0-4220-bb87-91f5ba4144ac" name="Changes" comment="Esercizio1 completato">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/es1/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es1/Esercizio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es2/Esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es2/Esercizio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Esercizio1.executor": "Run",
+    "Application.Esercizio2.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709644631103</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Esercizio1 completato">
+      <option name="closed" value="true" />
+      <created>1709646266034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709646266034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Esercizio1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Esercizio1" />
+    <MESSAGE value="Esercizio1 completato" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio1 completato" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -15,7 +15,7 @@ public class Esercizio1 {
         //----------------------------------2-------------------------
 
         System.out.println("Inserisci un anno per verificare se è bisestile oppure no");
-        int anno = scanner.nextInt();
+        int anno = Integer.parseInt(scanner.nextLine());
         System.out.println("anno bisestile: " + annoBisestile(anno));
 
 
